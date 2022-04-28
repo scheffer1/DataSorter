@@ -1,0 +1,15 @@
+C:\Users\mateu\RiderProjects\DataSr\DataSr\bin\Debug\net6.0\DataSr.exe
+C:\Users\mateu\RiderProjects\DataSr\DataSr\bin\Debug\net6.0\DataSr.deps.json
+C:\Users\mateu\RiderProjects\DataSr\DataSr\bin\Debug\net6.0\DataSr.runtimeconfig.json
+C:\Users\mateu\RiderProjects\DataSr\DataSr\bin\Debug\net6.0\DataSr.dll
+C:\Users\mateu\RiderProjects\DataSr\DataSr\bin\Debug\net6.0\DataSr.pdb
+C:\Users\mateu\RiderProjects\DataSr\DataSr\obj\Debug\net6.0\DataSr.csproj.AssemblyReference.cache
+C:\Users\mateu\RiderProjects\DataSr\DataSr\obj\Debug\net6.0\DataSr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\RiderProjects\DataSr\DataSr\obj\Debug\net6.0\DataSr.AssemblyInfoInputs.cache
+C:\Users\mateu\RiderProjects\DataSr\DataSr\obj\Debug\net6.0\DataSr.AssemblyInfo.cs
+C:\Users\mateu\RiderProjects\DataSr\DataSr\obj\Debug\net6.0\DataSr.csproj.CoreCompileInputs.cache
+C:\Users\mateu\RiderProjects\DataSr\DataSr\obj\Debug\net6.0\DataSr.dll
+C:\Users\mateu\RiderProjects\DataSr\DataSr\obj\Debug\net6.0\refint\DataSr.dll
+C:\Users\mateu\RiderProjects\DataSr\DataSr\obj\Debug\net6.0\DataSr.pdb
+C:\Users\mateu\RiderProjects\DataSr\DataSr\obj\Debug\net6.0\DataSr.genruntimeconfig.cache
+C:\Users\mateu\RiderProjects\DataSr\DataSr\obj\Debug\net6.0\ref\DataSr.dll

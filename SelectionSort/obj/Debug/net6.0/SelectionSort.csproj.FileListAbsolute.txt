@@ -1,0 +1,15 @@
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\bin\Debug\net6.0\SelectionSort.exe
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\bin\Debug\net6.0\SelectionSort.deps.json
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\bin\Debug\net6.0\SelectionSort.runtimeconfig.json
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\bin\Debug\net6.0\SelectionSort.dll
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\bin\Debug\net6.0\SelectionSort.pdb
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\obj\Debug\net6.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfo.cs
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\obj\Debug\net6.0\SelectionSort.dll
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\obj\Debug\net6.0\refint\SelectionSort.dll
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\obj\Debug\net6.0\SelectionSort.pdb
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\obj\Debug\net6.0\SelectionSort.genruntimeconfig.cache
+C:\Users\mateu\RiderProjects\DataSr\SelectionSort\obj\Debug\net6.0\ref\SelectionSort.dll

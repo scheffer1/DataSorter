@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSort.csproj", "{71AD5C3B-E19C-44B5-AEE9-37AEB96B680D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{FDB9161B-0BC0-4875-B456-45C4931F53C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{BE5A90B9-E7D9-421E-94D6-ACDBBA3101D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71AD5C3B-E19C-44B5-AEE9-37AEB96B680D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AD5C3B-E19C-44B5-AEE9-37AEB96B680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AD5C3B-E19C-44B5-AEE9-37AEB96B680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AD5C3B-E19C-44B5-AEE9-37AEB96B680D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB9161B-0BC0-4875-B456-45C4931F53C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB9161B-0BC0-4875-B456-45C4931F53C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB9161B-0BC0-4875-B456-45C4931F53C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB9161B-0BC0-4875-B456-45C4931F53C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5A90B9-E7D9-421E-94D6-ACDBBA3101D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5A90B9-E7D9-421E-94D6-ACDBBA3101D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5A90B9-E7D9-421E-94D6-ACDBBA3101D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5A90B9-E7D9-421E-94D6-ACDBBA3101D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
